@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">米900</string>
+    <string name="search_hint">请输入商品关键字</string>
+    <string name="search">搜索</string>
+    <string name="history">历史搜索</string>
+    <string name="clean_history">清除历史搜索</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stroll">马上去逛逛</string>
+    <string name="empty_note">亲，您的手机网络不流畅哦～</string>
+    <string name="empty_tryagain">再试一次</string>
+
+</resources>
